@@ -1,8 +1,8 @@
 # navigation_route_flutter
 
-Muh. Fauzi Ramadhan Nugraha
-TI - 3B
-2041720022
+- Muh. Fauzi Ramadhan Nugraha
+- TI - 3B
+- 2041720022
 
 Navigation and Route practice for Flutter.
 Berikut beberapa hasil praktikum yang berhasil saya kerjakan :
